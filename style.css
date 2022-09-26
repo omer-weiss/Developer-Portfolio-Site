@@ -34,8 +34,15 @@ li {
     border:3px solid green;
 }
 
- .card1 {
-    flex: 2 1 auto;
-    border: 3px solid green;
-    
- }   
+
+footer {
+    margin-top: 50px;
+}
+
+.footerinfo {
+    text-align: center;
+}
+
+.footerheader {
+    text-align: center;
+}
