@@ -16,9 +16,22 @@ li {
     margin-left: 30px;
     
 }
-.aboutme{
-    background-color: lightsteelblue;
-    border:10px solid rgb(0, 28, 128);
+.aboutme {
+    
+    border: 5px solid rgb(0, 28, 128);
 }
 
+.cards {
+    display: flex;
+    flex: wrap;
+}
 
+.card {
+    margin-left: 40px;
+}
+
+.container{
+    border: 5px solid rgb(0, 28, 128);
+    margin-top: 10px;
+}
+    
