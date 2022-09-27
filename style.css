@@ -53,10 +53,12 @@ figcaption {
     background-color: green;
 }
 
-@media screen and (max-width: 1000px) {
+/* */
+@media screen and (max-width: 1200px) {
     .cards {
       width: 200px;
       display:block;
+      margin-top: 20px;
     }
     
-  }
+}
