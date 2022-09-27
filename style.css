@@ -11,11 +11,13 @@ nav{
     text-align: right;
     font-size: large;
 }
+/* Displays items as inline-block on the same row */
 li {
     display:inline-block;
     margin-left: 30px;
     
 }
+
 #aboutme {
     
     border: 5px solid rgb(0, 28, 128);
@@ -33,7 +35,6 @@ li {
     margin-left: 40px;
     border:3px solid green;
 }
-
 
 footer {
     margin-top: 50px;

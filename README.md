@@ -12,3 +12,15 @@ Live Demo
 
 
 Usage
+
+The following two images show a screenshot of the navbar links working on my devloper website and the associated html code that enabled the items to become links. 
+
+![ image of navigation bar code screenshot](/navbar-screenshot.png"navigation screenshot")
+
+![ image of navigation bar links](/navbar.png"navigation bar code")
+
+The following two images show a screenshot of the column display that is enabled when the browser is made smaller, the image caption specifications and the image of the associated css code which enables both. 
+
+![ image of media resize and figcaption css code](/figcaption-media-screen-shot.png"css code ")
+
+![ application link images displayed in column when items become smaller, in order to fit screen](/media-size.png "screenshot")
